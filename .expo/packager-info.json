@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 420,
+  "expoServerNgrokUrl": "https://t6-2us.anonymous.simphony.exp.direct",
+  "packagerNgrokUrl": "https://packager.t6-2us.anonymous.simphony.exp.direct",
+  "ngrokPid": 10188,
+  "webpackServerPort": 19006
+}

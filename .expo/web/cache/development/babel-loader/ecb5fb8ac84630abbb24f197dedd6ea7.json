@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var MY_VARIABLE = [];","map":{"version":3,"sources":["C:/Users/haria/SIMphony/src/constants.js"],"names":["MY_VARIABLE"],"mappings":"AAAA,OAAO,IAAMA,WAAW,GAAG,EAApB","sourcesContent":["export const MY_VARIABLE = [];"]},"metadata":{},"sourceType":"module"}
